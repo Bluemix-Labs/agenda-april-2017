@@ -8,7 +8,7 @@
 * 9:20 a.m. - 10:50 a.m. - Session 1: Cloud Foundry Buildpacks
   * Developer Experience: Fork and Deploy a 'Hello World' App
     * Intro to Cloud Foundry Buildpacks - 15 minutes
-    * Fork and Deploy 'Hello World' Lab - 75 minutes
+    * Fork and Deploy 'Hello World' Lab - 45-60 minutes
     * (i) Java Lab: https://hub.jazz.net/tutorials/jazzeditorjava/  
     * (ii) NodeJS Lab: https://console.ng.bluemix.net/docs/runtimes/nodejs/getting-started.html#getting-started-with-node-js-on-bluemix
 
