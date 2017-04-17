@@ -14,8 +14,9 @@
 
 * 11:00 a.m. - 12:00 p.m. - Session 2: Cloud Foundry to Bind Services
   * Microservices Overview: Quickly Bind APIs, loosely coupled architecture presentation – 15 minutes
-  * Cloud Foundry Microservices Lab - 45 minutees
+  * Cloud Foundry Microservices Lab - 45 minutes 
   * Lab link: https://www.ibm.com/developerworks/cloud/library/cl-bluemix-fundamentals-introducing-cloud-services/index.html
+  * Openwhisk Lab link: https://thenewstack.io/hands-guide-creating-first-serverless-application-apache-openwhisk/
 
 
 * 1:00 p.m. - 2:30 p.m. - Session 3: Continuous Delivery in Bluemix
