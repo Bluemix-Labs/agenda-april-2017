@@ -6,7 +6,7 @@
   * Bluemix Fundamentals Intro: https://www.ibm.com/developerworks/cloud/library/cl-bluemix-fundamentals-introducing-cloud-services/index.html
 * 9:20 a.m. - 10:50 a.m. - Session 1: Cloud Foundry Buildpacks
   * Developer Experience: Fork and Deploy a 'Hello World' App
-    * Intro to Cloud Foundry Buildpacks - 15 minutes
+    * Intro to Cloud Foundry Buildpacks - 10 minutes
     * Fork and Deploy 'Hello World' Lab, & bind Cloudant Database - 45-60 minutes
     * NodeJS Lab: https://console.ng.bluemix.net/docs/runtimes/nodejs/getting-started.html#getting-started-with-node-js-on-bluemix
 
