@@ -13,17 +13,17 @@
 
 * 11:00 a.m. - 12:00 p.m. - Session 2: OpenWhisk
   * Microservices and Openwhisk Overview: https://medium.com/@helenflam/openwhisk-101-ed352efa7c52
+  * Lab requirements: OpenWhisk CLI download - https://console.ng.bluemix.net/openwhisk/cli
   * OpenWhisk Lab - 45 minutes 
-  * OpenWhisk CLI download: https://console.ng.bluemix.net/openwhisk/cli
-  * OpenWhisk "Creating and Invoking Javascript Actions" lab: https://github.com/openwhisk/openwhisk/blob/master/docs/actions.md#creating-and-invoking-javascript-actions - 20 minutes
-  * OpenWhisk Slack/Lab link: https://github.com/IBM-Bluemix/openwhisk-slackapp - 40 minutes
+  * OpenWhisk "Creating and Invoking Javascript Actions" lab 1: https://github.com/openwhisk/openwhisk/blob/master/docs/actions.md#creating-and-invoking-javascript-actions - 20 minutes
+  * OpenWhisk Slack/Lab 2: https://github.com/IBM-Bluemix/openwhisk-slackapp - 40 minutes
 
 
 * 1:00 p.m. - 2:30 p.m. - Session 3: Continuous Delivery in Bluemix
   * Continuous Delivery in Bluemix Overview Using Toolchains Presentation - 20 minutes
   * Exercise: Push Hello World app and build a pipeline using Toolchains - 1 hour
-  * Simple Toolchain Lab: https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_flow/
-  * Garage Method Cloud Native Toolchain Lab: https://www.ibm.com/devops/method/content/toolchains#toolchain_cloud_native
+  * Simple Toolchain Lab 1: https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_flow/
+  * Garage Method Cloud Native Toolchain Lab 2: https://www.ibm.com/devops/method/content/toolchains#toolchain_cloud_native
 
 * 2:30 p.m. - 4:00 p.m. - Session 4: Kubernetes Containers
   * Introduction to Kubernetes Containers.
