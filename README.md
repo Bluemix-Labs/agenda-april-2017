@@ -15,7 +15,7 @@
   * Microservices and Openwhisk Overview: https://medium.com/@helenflam/openwhisk-101-ed352efa7c52
   * Lab requirements: OpenWhisk CLI download - https://console.ng.bluemix.net/openwhisk/cli
   * OpenWhisk Lab - 45 minutes 
-  * OpenWhisk "Creating and Invoking Javascript Actions" lab 1: https://github.com/openwhisk/openwhisk/blob/master/docs/actions.md#creating-and-invoking-javascript-actions - 20 minutes
+  * OpenWhisk "Creating and Invoking Javascript Actions" lab 1: https://github.com/openwhisk/openwhisk/blob/master/docs/actions.md#creating-and-invoking-javascript-actions
 
 
 * 1:00 p.m. - 2:30 p.m. - Session 3: Continuous Delivery in Bluemix
