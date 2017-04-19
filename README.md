@@ -8,8 +8,8 @@
 * 9:20 a.m. - 10:50 a.m. - Session 1: Cloud Foundry Buildpacks
   * Developer Experience: Fork and Deploy a 'Hello World' App
     * Intro to Cloud Foundry Buildpacks - 15 minutes
-    * Fork and Deploy 'Hello World' Lab - 45-60 minutes
-    * (i) NodeJS Lab: https://console.ng.bluemix.net/docs/runtimes/nodejs/getting-started.html#getting-started-with-node-js-on-bluemix
+    * Fork and Deploy 'Hello World' Lab, & bind Cloudant Database - 45-60 minutes
+    * NodeJS Lab: https://console.ng.bluemix.net/docs/runtimes/nodejs/getting-started.html#getting-started-with-node-js-on-bluemix
 
 
 * 11:00 a.m. - 12:00 p.m. - Session 2: Cloud Foundry to Bind Services
