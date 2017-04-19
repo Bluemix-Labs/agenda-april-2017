@@ -16,7 +16,6 @@
   * Lab requirements: OpenWhisk CLI download - https://console.ng.bluemix.net/openwhisk/cli
   * OpenWhisk Lab - 45 minutes 
   * OpenWhisk "Creating and Invoking Javascript Actions" lab 1: https://github.com/openwhisk/openwhisk/blob/master/docs/actions.md#creating-and-invoking-javascript-actions - 20 minutes
-  * OpenWhisk Slack/Lab 2: https://github.com/IBM-Bluemix/openwhisk-slackapp - 40 minutes
 
 
 * 1:00 p.m. - 2:30 p.m. - Session 3: Continuous Delivery in Bluemix
