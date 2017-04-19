@@ -15,7 +15,7 @@
   * Microservices Overview – 15 minutes
   * OpenWhisk Lab - 45 minutes 
   * OpenWhisk CLI download: https://console.ng.bluemix.net/openwhisk/cli
-  * Complete OpenWhisk "Creating and Invoking Javascript Actions": https://github.com/openwhisk/openwhisk/blob/master/docs/actions.md#creating-and-invoking-javascript-actions - 20 minutes
+  * OpenWhisk "Creating and Invoking Javascript Actions" lab: https://github.com/openwhisk/openwhisk/blob/master/docs/actions.md#creating-and-invoking-javascript-actions - 20 minutes
   * OpenWhisk Slack/Lab link: https://github.com/IBM-Bluemix/openwhisk-slackapp - 40 minutes
 
 
