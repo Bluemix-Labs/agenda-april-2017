@@ -7,12 +7,12 @@
 * 9:20 a.m. - 10:50 a.m. - Session 1: Cloud Foundry Buildpacks
   * Developer Experience: Fork and Deploy a 'Hello World' App
     * Intro to Cloud Foundry Buildpacks - 10 minutes
-    * Fork and Deploy 'Hello World' Lab, & bind Cloudant Database - 30 minutes
+    * Fork and Deploy 'Hello World' Lab, & bind Cloudant Database - 20-25 minutes
     * NodeJS Lab: https://console.ng.bluemix.net/docs/runtimes/nodejs/getting-started.html#getting-started-with-node-js-on-bluemix
 
 
 * 11:00 a.m. - 12:00 p.m. - Session 2: OpenWhisk
-  * Microservices and Openwhisk Overview – 15 minutes
+  * Microservices and Openwhisk Overview – 10 minutes
   * OpenWhisk Lab - 45 minutes 
   * OpenWhisk CLI download: https://console.ng.bluemix.net/openwhisk/cli
   * OpenWhisk "Creating and Invoking Javascript Actions" lab: https://github.com/openwhisk/openwhisk/blob/master/docs/actions.md#creating-and-invoking-javascript-actions - 20 minutes
