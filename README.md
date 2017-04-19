@@ -3,8 +3,7 @@
 ## Day one
 
 * 9:00 - 9:20 a.m. - Introduction
-  * Bluemix Overview: Cloud Native Architecture Presentation.
-  * Topics: Microservices; Containers; and the Why, What and How of Bluemix PaaS
+  * Bluemix Fundamentals Intro: https://www.ibm.com/developerworks/cloud/library/cl-bluemix-fundamentals-introducing-cloud-services/index.html
 * 9:20 a.m. - 10:50 a.m. - Session 1: Cloud Foundry Buildpacks
   * Developer Experience: Fork and Deploy a 'Hello World' App
     * Intro to Cloud Foundry Buildpacks - 15 minutes
@@ -12,17 +11,17 @@
     * NodeJS Lab: https://console.ng.bluemix.net/docs/runtimes/nodejs/getting-started.html#getting-started-with-node-js-on-bluemix
 
 
-* 11:00 a.m. - 12:00 p.m. - Session 2: Cloud Foundry to Bind Services
-  * Microservices Overview: Quickly Bind APIs, loosely coupled architecture presentation – 15 minutes
-  * Cloud Foundry Microservices Lab - 45 minutes 
-  * Lab link: https://www.ibm.com/developerworks/cloud/library/cl-bluemix-fundamentals-introducing-cloud-services/index.html
+* 11:00 a.m. - 12:00 p.m. - Session 2: OpenWhisk
+  * Microservices Overview – 15 minutes
+  * OpenWhisk Lab - 45 minutes 
   * Openwhisk Lab link: https://thenewstack.io/hands-guide-creating-first-serverless-application-apache-openwhisk/
 
 
 * 1:00 p.m. - 2:30 p.m. - Session 3: Continuous Delivery in Bluemix
   * Continuous Delivery in Bluemix Overview Using Toolchains Presentation - 30 minutes
   * Exercise: Push Hello World app and build a pipeline using Toolchains - 1 hour
-  * Toolchain Lab: https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_flow/
+  * Simple Toolchain Lab: https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_flow/
+  * Garage Method Cloud Native Toolchain: https://www.ibm.com/devops/method/content/toolchains#toolchain_cloud_native
 
 * 2:30 p.m. - 4:00 p.m. - Session 4: Kubernetes Containers
   * Introduction to Kubernetes Containers.
