@@ -14,7 +14,7 @@
 * 11:00 a.m. - 12:00 p.m. - Session 2: OpenWhisk
   * Microservices Overview – 15 minutes
   * OpenWhisk Lab - 45 minutes 
-  * Openwhisk Lab link: https://thenewstack.io/hands-guide-creating-first-serverless-application-apache-openwhisk/ 
+  * OpenWhisk CLI download: https://console.ng.bluemix.net/openwhisk/cli
   * Complete OpenWhisk "Creating and Invoking Javascript Actions": https://github.com/openwhisk/openwhisk/blob/master/docs/actions.md#creating-and-invoking-javascript-actions - 20 minutes
   * OpenWhisk Slack/Lab link: https://github.com/IBM-Bluemix/openwhisk-slackapp - 40 minutes
 
