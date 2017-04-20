@@ -12,7 +12,10 @@
 
 
 * 11:00 a.m. - 12:00 p.m. - Session 2: OpenWhisk
-  * Microservices and Openwhisk Overview: https://medium.com/@helenflam/openwhisk-101-ed352efa7c52
+  * Microservices and Openwhisk Overview: 
+  * (i) https://www.slideshare.net/OpenWhisk/ibm-bluemix-openwhisk-overview-interconnect-2017?from_action=save
+  * (ii) https://www.slideshare.net/DanielKrook/
+  
   * Lab requirements: OpenWhisk CLI download - https://console.ng.bluemix.net/openwhisk/cli
   * OpenWhisk Lab - 45 minutes 
   * OpenWhisk "Creating and Invoking Javascript Actions" lab 1: https://github.com/openwhisk/openwhisk/blob/master/docs/actions.md#creating-and-invoking-javascript-actions
